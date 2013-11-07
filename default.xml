@@ -1,7 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>  
-<manifest>  
-    <remote name="master" fetch="ssh://git@192.168.162.142" review="" />  
-    <default revision="master" remote="master" />  
-    <project name="build" path="build"/>  
-    <project name="cinnamon" path="cos/cinnamon"/>  
-</manifest>  
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="master" fetch="ssh://git@192.168.162.142" review="" />
+    <default revision="master" remote="master" />
+        <project name="build" path="build"/>
+        <project name="cosupdate" path="update"/>
+
+        <project name="cinnamon" path="desktop/cinnamon"/>
+        <project name="cinnamon-screensaver" path="desktop/cinnamon-screensaver"/>
+        <project name="nemo" path="desktop/nemo"/>
+        <project name="nemo-fileroller" path="desktop/nemo-fileroller"/>
+        <project name="nemo-share" path="desktop/nemo-share"/>
+
+        <!--<project name="cosdesktop" path="cosdesktop"/>
+        <project name="coswelcome" path="coswelcome"/>
+        <project name="cosbackup" path="cosbackup"/>
+        <project name="cossystem" path="cossystem"/>
+        <project name="cosdrivers" path="cosdrivers"/>
+        <project name="cossources" path="cossources"/>
+        <project name="cosstick" path="cosstick"/>
+        <project name="cosupload" path="cosupload"/>
+        <project name="cosnanny" path="cosnanny"/>
+        <project name="coswifi" path="coswifi"/>
+        <project name="cosinstall" path="cosinstall"/>
+        <project name="cosinstall-icons" path="cosinstall-icons"/>
+        <project name="cos-upgrade" path="cos-upgrade"/>
+        <project name="cos-local-repository" path="cos-local-repository"/>
+        <project name="cos-artwork-cinnamon" path="cos-artwork-cinnamon"/>
+        <project name="cos-artwork-gnome" path="cos-artwork-gnome"/>
+        <project name="cos-artwork-common" path="cos-artwork-common"/>
+        <project name="cos-background-iceblue" path="cos-background-iceblue"/>
+        <project name="cos-mdm-themes" path="cos-mdm-themes"/>
+        <project name="cos-themes" path="cos-themes"/>
+        <project name="cos-flashplugin-11" path="cos-flashplugin-11"/>
+        <project name="cos-meta" path="cos-meta"/>
+        <project name="cos-info" path="cos-info"/>
+        <project name="cos-system-adjustments" path="cos-system-adjustments"/>
+        <project name="cos-x-icons" path="cos-x-icons"/>
+        <project name="cos-mirrors" path="cos-mirrors"/>
+        <project name="cos-common" path="cos-common"/>
+        <project name="cos-translations" path="cos-translations"/>-->
+</manifest>
