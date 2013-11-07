@@ -2,5 +2,6 @@
 <manifest>  
     <remote name="master" fetch="ssh://git@192.168.162.142" review="" />  
     <default revision="master" remote="master" />  
+    <project name="build" path="build"/>  
     <project name="cinnamon" path="cos/cinnamon"/>  
 </manifest>  
