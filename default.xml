@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <manifest>  
-    <remote name="192.168.162.142" fetch="" review="" />  
-    <default revision="master" remote="192.168.162.142" />  
+    <remote name="cosdesktop" fetch="git://192.168.162.142" review="" />  
+    <default revision="master" remote="master" />  
     <project name="cinnamon" path="cinnamon"/>  
     <project name="cinnamon-screensaver" path="cinnamon-screensaver"/>  
 </manifest>  
