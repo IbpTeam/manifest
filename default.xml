@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <manifest>  
-    <remote name="master" fetch="git@192.168.162.142" review="" />  
+    <remote name="master" fetch="git@192.168.162.142:" review="" />  
     <default revision="master" remote="master" />  
     <project name="cinnamon" path="cinnamon"/>  
 </manifest>  
