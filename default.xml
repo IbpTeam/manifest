@@ -3,7 +3,6 @@
     <remote name="master" fetch="ssh://git@192.168.162.142" review="" />
     <default revision="master" remote="master" />
         <project name="build" path="build"/>
-        <project name="cosupdate" path="update"/>
 
         <project name="cinnamon" path="desktop/cinnamon"/>
         <project name="cinnamon-screensaver" path="desktop/cinnamon-screensaver"/>
@@ -11,6 +10,7 @@
         <project name="nemo-fileroller" path="desktop/nemo-fileroller"/>
         <project name="nemo-share" path="desktop/nemo-share"/>
 
+        <project name="cosupdate" path="cos/cosupdate"/>
         <project name="cosdesktop" path="cos/cosdesktop"/>
         <project name="coswelcome" path="cos/coswelcome"/>
         <project name="cosbackup" path="cos/cosbackup"/>
