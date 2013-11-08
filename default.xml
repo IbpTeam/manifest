@@ -39,4 +39,7 @@
         <project name="cos-mirrors" path="cos/cos-mirrors"/>
         <project name="cos-common" path="cos/cos-common"/>
         <project name="cos-translations" path="cos/cos-translations"/>
+        <project name="cos-flashplugin" path="cos/cos-flashplugin"/>
+        <project name="cos-stylish-addon" path="cos/cos-stylish-addon"/>
+
 </manifest>
