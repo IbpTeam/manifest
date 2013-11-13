@@ -36,7 +36,7 @@
     <project name="cos-flashplugin-11" path="cos/cos-flashplugin-11"/>
     <project name="cos-meta" path="cos/cos-meta"/>
     <project name="cos-info" path="cos/cos-info"/>
-    <project name="cos-system-adjustments" path="cos/cos-system-adjustments"/>
+    <project name="ubuntu-system-adjustments" path="cos/ubuntu-system-adjustments"/>
     <project name="cos-x-icons" path="cos/cos-x-icons"/>
     <project name="cos-mirrors" path="cos/cos-mirrors"/>
     <project name="cos-common" path="cos/cos-common"/>
