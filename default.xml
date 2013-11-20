@@ -11,6 +11,8 @@
     <project name="nemo" path="desktop/nemo"/>
     <project name="nemo-fileroller" path="desktop/nemo-fileroller"/>
     <project name="nemo-share" path="desktop/nemo-share"/>
+    <project name="gnome-screenshot" path="desktop/gnome-screenshot"/>
+    <project name="gnome-system-monitor" path="desktop/gnome-system-monitor"/>
 
     <project name="cosupdate" path="cos/cosupdate"/>
     <project name="cosdesktop" path="cos/cosdesktop"/>
