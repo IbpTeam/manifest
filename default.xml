@@ -14,7 +14,6 @@
     <project name="gnome-screenshot" path="desktop/gnome-screenshot"/>
     <project name="gnome-system-monitor" path="desktop/gnome-system-monitor"/>
     <project name="cinnamon-control-center" path="desktop/cinnamon-control-center"/>
-    <project name="cups-filter" path="desktop/cups-filter"/>
 
     <project name="cosupdate" path="cos/cosupdate"/>
     <project name="cosdesktop" path="cos/cosdesktop"/>
