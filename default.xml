@@ -6,6 +6,8 @@
 
     <project name="build" path="build"/>
 
+    <project name="kernel" path="kernel"/>
+
     <project name="cinnamon" path="desktop/cinnamon"/>
     <project name="cinnamon-screensaver" path="desktop/cinnamon-screensaver"/>
     <project name="nemo" path="desktop/nemo"/>
