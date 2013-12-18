@@ -5,7 +5,6 @@
     <project name="documents" path="docs" />
 
     <project name="build" path="build"/>
-    <project name="livecd" path="build/livecd"/>
 
     <project name="kernel" path="kernel"/>
 
