@@ -35,7 +35,7 @@
     <project name="cos-artwork-cinnamon" path="cos/cos-artwork-cinnamon"/>
     <project name="cos-artwork-gnome" path="cos/cos-artwork-gnome"/>
     <project name="cos-artwork-common" path="cos/cos-artwork-common"/>
-    <project name="cos-background-iceblue" path="cos/cos-background-iceblue"/>
+    <project name="cos-background-iceblue" path="cos/cos-backgrounds-iceblue"/>
     <project name="cos-mdm-themes" path="cos/cos-mdm-themes"/>
     <project name="cos-themes" path="cos/cos-themes"/>
     <project name="cos-flashplugin-11" path="cos/cos-flashplugin-11"/>
