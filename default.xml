@@ -48,6 +48,7 @@
     <project name="cos-translations" path="cos/cos-translations"/>
     <project name="cos-flashplugin" path="cos/cos-flashplugin"/>
     <project name="cos-stylish-addon" path="cos/cos-stylish-addon"/>
+    <project name="cosfeedback" path="cos/cosfeedback"/>
 
    <project name="language-pack-gnome-zh-hans" path="language/language-pack-gnome-zh-hans"/>
    <project name="language-pack-gnome-zh-hans-base" path="language/language-pack-gnome-zh-hans-base"/>
