@@ -16,6 +16,7 @@
     <project name="gnome-screenshot" path="desktop/gnome-screenshot"/>
     <project name="gnome-system-monitor" path="desktop/gnome-system-monitor"/>
     <project name="cinnamon-control-center" path="desktop/cinnamon-control-center"/>
+    <project name="libtimezonemap" path="desktop/libtimezonemap"/>
 
     <project name="cosupdate" path="cos/cosupdate"/>
     <project name="cosdesktop" path="cos/cosdesktop"/>
@@ -48,6 +49,7 @@
     <project name="cos-translations" path="cos/cos-translations"/>
     <project name="cos-flashplugin" path="cos/cos-flashplugin"/>
     <project name="cos-stylish-addon" path="cos/cos-stylish-addon"/>
+    <project name="cospatchmgr" path="cos/cospatchmgr"/>
     <project name="cosfeedback" path="cos/cosfeedback"/>
 
    <project name="language-pack-gnome-zh-hans" path="language/language-pack-gnome-zh-hans"/>
