@@ -31,7 +31,7 @@
     <project name="mintwifi" path="mint/mintwifi"/>
     <project name="mintinstall" path="mint/mintinstall"/>
     <project name="mintinstall-icons" path="mint/mintinstall-icons"/>
-    <project name="mint-upgrade" path="mint/mint-upgrade"/>
+    <project name="cos-upgrade" path="mint/cos-upgrade"/>
     <project name="mint-local-repository" path="mint/mint-local-repository"/>
     <project name="mint-artwork-cinnamon" path="mint/mint-artwork-cinnamon"/>
     <project name="mint-artwork-gnome" path="mint/mint-artwork-gnome"/>
@@ -49,8 +49,8 @@
     <project name="mint-translations" path="mint/mint-translations"/>
     <project name="mint-flashplugin" path="mint/mint-flashplugin"/>
     <project name="mint-stylish-addon" path="mint/mint-stylish-addon"/>
-    <project name="mintpatchmgr" path="mint/mintpatchmgr"/>
-    <project name="mintfeedback" path="mint/mintfeedback"/>
+    <project name="cospatchmgr" path="mint/cospatchmgr"/>
+    <project name="cosfeedback" path="mint/cosfeedback"/>
 
    <project name="language-pack-gnome-zh-hans" path="language/language-pack-gnome-zh-hans"/>
    <project name="language-pack-gnome-zh-hans-base" path="language/language-pack-gnome-zh-hans-base"/>
