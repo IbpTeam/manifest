@@ -36,7 +36,7 @@
     <project name="mint-artwork-cinnamon" path="mint/mint-artwork-cinnamon"/>
     <project name="mint-artwork-gnome" path="mint/mint-artwork-gnome"/>
     <project name="mint-artwork-common" path="mint/mint-artwork-common"/>
-    <project name="mint-background-iceblue" path="mint/mint-backgrounds-iceblue"/>
+    <project name="mint-background-iceblue" path="mint/mint-backgrounds-olivia"/>
     <project name="mint-mdm-themes" path="mint/mint-mdm-themes"/>
     <project name="mint-themes" path="mint/mint-themes"/>
     <project name="mint-flashplugin-11" path="mint/mint-flashplugin-11"/>
