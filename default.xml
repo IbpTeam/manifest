@@ -17,6 +17,7 @@
     <project name="gnome-system-monitor" path="desktop/gnome-system-monitor"/>
     <project name="cinnamon-control-center" path="desktop/cinnamon-control-center"/>
     <project name="libtimezonemap" path="desktop/libtimezonemap"/>
+    <project name="gnome-icon-theme-symbolic" path="desktop/gnome-icon-theme-symbolic"/>
 
     <project name="cosupdate" path="cos/cosupdate"/>
     <project name="cosdesktop" path="cos/cosdesktop"/>
