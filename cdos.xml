@@ -9,9 +9,9 @@
     <project name="kernel" path="kernel"/>
 
 
-    <!--<project name="cdospatchmgr" path="cdos/cdospatchmgr"/>
+    <project name="cdospatchmgr" path="cdos/cdospatchmgr"/>
     <project name="cdosfeedback" path="cdos/cdosfeedback"/>
-    <project name="cdos-upgrade" path="cdos/cdos-upgrade"/>-->
+    <project name="cdos-upgrade" path="cdos/cdos-upgrade"/>
 
     <project name="cinnamon" path="desktop/cinnamon"/>
     <project name="cinnamon-screensaver" path="desktop/cinnamon-screensaver"/>
