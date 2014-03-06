@@ -8,6 +8,11 @@
 
     <project name="kernel" path="kernel"/>
 
+
+    <project name="cdospatchmgr" path="cdos/cdospatchmgr"/>
+    <project name="cdosfeedback" path="cdos/cdosfeedback"/>
+    <project name="cdos-upgrade" path="cdos/cdos-upgrade"/>
+
     <project name="cinnamon" path="desktop/cinnamon"/>
     <project name="cinnamon-screensaver" path="desktop/cinnamon-screensaver"/>
     <project name="nemo" path="desktop/nemo"/>
@@ -49,10 +54,6 @@
     <project name="mint-translations" path="mint/mint-translations"/>
     <project name="mint-flashplugin" path="mint/mint-flashplugin"/>
     <project name="mint-stylish-addon" path="mint/mint-stylish-addon"/>
-
-    <!--<project name="cospatchmgr" path="mint/cospatchmgr"/>
-    <project name="cosfeedback" path="mint/cosfeedback"/>
-    <project name="cos-upgrade" path="mint/cos-upgrade"/>-->
 
    <project name="language-pack-gnome-zh-hans" path="language/language-pack-gnome-zh-hans"/>
    <project name="language-pack-gnome-zh-hans-base" path="language/language-pack-gnome-zh-hans-base"/>
