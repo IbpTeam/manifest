@@ -2,7 +2,7 @@
 <manifest>
     <remote name="origin" fetch="ssh://git@192.168.162.142" review="" />
     <default revision="cdosbuild" remote="origin" />
-    <project name="documents" path="docs" />
+    <project name="documents" path="docs" revision="master"/>
 
     <project name="build" path="build"/>
 
