@@ -23,6 +23,7 @@
     <project name="cinnamon-control-center" path="desktop/cinnamon-control-center"/>
     <project name="libtimezonemap" path="desktop/libtimezonemap"/>
     <project name="gnome-icon-theme-symbolic" path="desktop/gnome-icon-theme-symbolic"/>
+    <project name="gufw" path="desktop/gufw"/>
 
     <project name="mintupdate" path="mint/mintupdate"/>
     <project name="mintdesktop" path="mint/mintdesktop"/>
