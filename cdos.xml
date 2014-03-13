@@ -24,6 +24,7 @@
     <project name="libtimezonemap" path="desktop/libtimezonemap"/>
     <project name="gnome-icon-theme-symbolic" path="desktop/gnome-icon-theme-symbolic"/>
     <project name="gufw" path="desktop/gufw"/>
+    <project name="mdm" path="desktop/mdm"/>
 
     <project name="mintupdate" path="mint/mintupdate"/>
     <project name="mintdesktop" path="mint/mintdesktop"/>
