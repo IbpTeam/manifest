@@ -4,7 +4,7 @@
     <default revision="cdosbuild" remote="origin" />
     <project name="documents" path="docs" revision="master"/>
 
-    <project name="build" path="build"/>
+    <project name="build" path="build" revision="rawtheme"/>
 
     <project name="kernel" path="kernel"/>
 
