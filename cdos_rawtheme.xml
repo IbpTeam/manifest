@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="origin" fetch="ssh://git@192.168.162.142" review="" />
-    <default revision="cdosbuild" remote="origin" />
+    <default revision="rawtheme" remote="origin" />
     <project name="documents" path="docs" revision="master"/>
 
-    <project name="build" path="build" revision="rawtheme"/>
+    <project name="build" path="build"/>
 
     <project name="kernel" path="kernel"/>
-
-    <project name="cdospatchmgr" path="cdos/cdospatchmgr"/>
-    <project name="cdosfeedback" path="cdos/cdosfeedback"/>
-    <project name="cdos-upgrade" path="cdos/cdos-upgrade"/>
 
     <project name="cinnamon" path="desktop/cinnamon"/>
     <project name="cinnamon-screensaver" path="desktop/cinnamon-screensaver"/>
@@ -39,16 +35,16 @@
     <project name="mintinstall" path="mint/mintinstall"/>
     <project name="mintinstall-icons" path="mint/mintinstall-icons"/>
     <project name="mint-local-repository" path="mint/mint-local-repository"/>
-    <project name="mint-artwork-cinnamon" path="mint/mint-artwork-cinnamon" revision="rawtheme"/>
+    <project name="mint-artwork-cinnamon" path="mint/mint-artwork-cinnamon"/>
     <project name="mint-artwork-gnome" path="mint/mint-artwork-gnome"/>
     <project name="mint-artwork-common" path="mint/mint-artwork-common"/>
     <project name="mint-backgrounds-olivia" path="mint/mint-backgrounds-olivia"/>
-    <project name="mint-mdm-themes" path="mint/mint-mdm-themes" revision="rawtheme"/>
-    <project name="mint-themes" path="mint/mint-themes" revision="rawtheme"/>
+    <project name="mint-mdm-themes" path="mint/mint-mdm-themes"/>
+    <project name="mint-themes" path="mint/mint-themes"/>
     <project name="mint-flashplugin-11" path="mint/mint-flashplugin-11"/>
     <project name="mint-meta" path="mint/mint-meta"/>
     <project name="mint-info" path="mint/mint-info"/>
-    <project name="ubuntu-system-adjustments" path="mint/ubuntu-system-adjustments" revision="rawtheme"/>
+    <project name="ubuntu-system-adjustments" path="mint/ubuntu-system-adjustments"/>
     <project name="mint-x-icons" path="mint/mint-x-icons"/>
     <project name="mint-mirrors" path="mint/mint-mirrors"/>
     <project name="mint-common" path="mint/mint-common"/>
