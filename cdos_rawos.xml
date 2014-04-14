@@ -52,7 +52,4 @@
     <project name="mint-flashplugin" path="mint/mint-flashplugin"/>
     <project name="mint-stylish-addon" path="mint/mint-stylish-addon"/>
 
-   <project name="language-pack-gnome-zh-hans" path="language/language-pack-gnome-zh-hans"/>
-   <project name="language-pack-gnome-zh-hans-base" path="language/language-pack-gnome-zh-hans-base"/>
-
 </manifest>
