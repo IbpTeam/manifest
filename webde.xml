@@ -6,6 +6,7 @@
 
 	<project name="webde/build" path="build"/>
 	<project name="webde/prebuilt" path="prebuilt" />
+	<project name="documents" path="documents" />
 
 	<project name="IbpTeam/demo-webde" path="src/demo-webde" remote="upstream"/>
 	<project name="IbpTeam/demo-rio" path="src/demo-rio" remote="upstream"/>
