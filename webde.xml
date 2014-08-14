@@ -10,6 +10,6 @@
 
 	<project name="webde/node" path="src/node"/>
 
-	<project name="IbpTeam/demo-webde" path="src/demo-webde" remote="upstream" sync_s="true"/>
-	<project name="IbpTeam/demo-rio" path="src/demo-rio" remote="upstream" sync_s="true"/>
+	<project name="IbpTeam/demo-webde" path="app/demo-webde" remote="upstream" sync_s="true"/>
+	<project name="IbpTeam/demo-rio" path="app/demo-rio" remote="upstream" sync_s="true"/>
 </manifest>
