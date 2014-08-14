@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="origin" fetch="ssh://git@192.168.162.142" review="" />
+    <remote name="upstream" fetch="ssh://git@github.com" review="" />
     <default revision="master" remote="origin" />
 	<project name="webde/build" path="build"/>
 
-	<project name="webde/prebuilt" path="prebuilt"/>
+	<project name="webde/prebuilt" path="prebuilt" />
+	<project name="IbpTeam/demo-webde" path="src/demo-webde" remote="upstream"/>
 </manifest>
