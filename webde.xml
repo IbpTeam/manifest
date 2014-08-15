@@ -19,6 +19,7 @@
 	<project name="webde/nodemodule/netlink" path="src/node_modules/netlink"/>
 	<project name="webde/nodemodule/nodegit" path="src/node_modules/nodegit"/>
 	<project name="webde/nodemodule/socket.io" path="src/node_modules/socket.io"/>
+	<project name="webde/nodemodule/sqlite3" path="src/node_modules/sqlite3"/>
 
 	<project name="IbpTeam/demo-webde" path="app/demo-webde" remote="upstream"/>
 	<project name="IbpTeam/demo-rio" path="app/demo-rio" remote="upstream"/>
