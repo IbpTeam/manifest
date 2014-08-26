@@ -8,6 +8,7 @@
 	    <copyfile src="set_env" dest="set_env" />
 	</project>
 
+    <project name="webde/resources" path="resources" />
 	<project name="webde/prebuilt" path="prebuilt" />
 	<project name="documents" path="documents" />
 
