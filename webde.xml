@@ -23,6 +23,7 @@
 	<project name="webde/nodemodule/socket.io" path="src/node_modules/socket.io"/>
 	<project name="webde/nodemodule/sqlite3" path="src/node_modules/sqlite3"/>
 	<project name="webde/nodemodule/chokidar" path="src/node_modules/chokidar"/>
+	<project name="webde/nodemodule/ws" path="src/node_modules/ws"/>
 
     <project name="webde/service/dbus_example" path="src/service/dbus_example"/>
 
