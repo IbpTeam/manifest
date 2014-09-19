@@ -25,8 +25,8 @@
 	<project name="webde/nodemodule/chokidar" path="src/node_modules/chokidar"/>
 	<project name="webde/nodemodule/ws" path="src/node_modules/ws"/>
 	<project name="webde/nodemodule/node-dbus" path="src/node_modules/dbus"/>
-	<project name="webde/nodemodule/socket.io-client" path="src/node_modules/socket.io-client"/>
 	<project name="IbpTeam/node-csvtojson" path="src/node_modules/csvtojson" remote="upstream"/>
+	<project name="IbpTeam/socket.io-client" path="src/node_modules/socket.io-client" remote="upstream"/>
 
     <project name="webde/service/dbus_example" path="src/service/dbus_example"/>
 
