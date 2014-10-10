@@ -32,4 +32,5 @@
 
 	<project name="IbpTeam/demo-webde" path="app/demo-webde" remote="upstream"/>
 	<project name="IbpTeam/demo-rio" path="app/demo-rio" remote="upstream"/>
+	<project name="IbpTeam/webde-android" path="app/webde-android" remote="upstream"/>
 </manifest>
