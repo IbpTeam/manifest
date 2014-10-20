@@ -28,6 +28,7 @@
 	<project name="IbpTeam/node-csvtojson" path="src/node_modules/csvtojson" remote="upstream"/>
 	<project name="IbpTeam/socket.io-client" path="src/node_modules/socket.io-client" remote="upstream"/>
 	<project name="IbpTeam/ursa" path="src/node_modules/ursa" remote="upstream"/>
+	<project name="IbpTeam/node-fs-extra" path="src/node_modules/fs-extra" remote="upstream"/>
 
     <project name="webde/service/dbus_example" path="src/service/dbus_example"/>
 
