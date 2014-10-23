@@ -4,7 +4,7 @@
     <remote name="upstream" fetch="ssh://git@github.com" review="" />
     <default revision="master" remote="origin" />
 
-	<project name="webde/build" path="build">
+	<project name="IbpTeam/build" path="build" remote="upstream">
 	    <copyfile src="set_env" dest="set_env" />
 	</project>
 
