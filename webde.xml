@@ -30,8 +30,11 @@
 	<project name="IbpTeam/ursa" path="src/node_modules/ursa" remote="upstream"/>
 	<project name="IbpTeam/node-fs-extra" path="src/node_modules/fs-extra" remote="upstream"/>
 
-    <project name="webde/service/dbus_example" path="src/service/dbus_example"/>
-
+   <project name="webde/service/dbus_example" path="src/service/dbus_example"/>
+	<project name="IbpTeam/tape" path="src/node_modules/tape" remote="upstream"/>
+	<project name="IbpTeam/request" path="src/node_modules/request" remote="upstream"/>
+	<project name="IbpTeam/file-stream" path="src/node_modules/file-stream" remote="upstream"/>
+	<project name="IbpTeam/node-rsa" path="src/node_modules/node-rsa" remote="upstream"/>
 	<project name="IbpTeam/demo-webde" path="app/demo-webde" remote="upstream"/>
 	<project name="IbpTeam/demo-rio" path="app/demo-rio" remote="upstream"/>
 	<project name="IbpTeam/webde-android" path="app/webde-android" remote="upstream"/>
