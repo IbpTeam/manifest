@@ -36,7 +36,7 @@
 	<project name="IbpTeam/request" path="src/node_modules/request" remote="upstream"/>
 	<project name="IbpTeam/file-stream" path="src/node_modules/file-stream" remote="upstream"/>
 	<project name="IbpTeam/node-rsa" path="src/node_modules/node-rsa" remote="upstream"/>
-	<project name="IbpTeam/musicmetadata" path="src/node_modules/musicmetadata" remote="upstream"/>
+	<project name="IbpTeam/ID3v2-info-parser" path="src/node_modules/id3v2-parser" remote="upstream"/>
 	<project name="IbpTeam/node-ffprobe" path="src/node_modules/node-ffprobe" remote="upstream"/>
 	<project name="IbpTeam/node-video-thumb" path="src/node_modules/video-thumb" remote="upstream"/>
 
