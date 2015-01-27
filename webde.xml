@@ -39,6 +39,7 @@
 	<project name="IbpTeam/ID3v2-info-parser" path="src/node_modules/id3v2-parser" remote="upstream"/>
 	<project name="IbpTeam/node-ffprobe" path="src/node_modules/node-ffprobe" remote="upstream"/>
 	<project name="IbpTeam/node-video-thumb" path="src/node_modules/video-thumb" remote="upstream"/>
+	<project name="IbpTeam/node-notifier" path="src/node_modules/node-notifier" remote="upstream"/>
 
 	<project name="IbpTeam/demo-webde" path="app/demo-webde" remote="upstream"/>
 	<project name="IbpTeam/demo-rio" path="app/demo-rio" remote="upstream"/>
