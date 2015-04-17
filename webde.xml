@@ -1,47 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="origin" fetch="ssh://git@192.168.162.142" review="" />
-    <remote name="upstream" fetch="ssh://git@github.com" review="" />
+    <remote name="origin" fetch="ssh://git@124.16.141.145" review="" />
     <default revision="master" remote="origin" />
 
-	<project name="IbpTeam/build" path="build" remote="upstream">
+	<project name="ibp/build" path="build" >
 	    <copyfile src="set_env" dest="set_env" />
 	</project>
 
-    <project name="webde/resources" path="resources" />
-	<project name="webde/prebuilt" path="prebuilt" />
-	<project name="documents" path="documents" />
+    <project name="ibp/resources" path="resources" />
+	<project name="ibp/prebuilt" path="prebuilt" />
+	<project name="ibp/documents" path="documents" />
 
-	<project name="webde/node" path="src/node"/>
-	<project name="webde/nodemodule/getip" path="src/node_modules/getip"/>
-	<project name="webde/nodemodule/getmac" path="src/node_modules/getmac"/>
-	<project name="webde/nodemodule/hashtable" path="src/node_modules/hashtable"/>
-	<project name="webde/nodemodule/mdns" path="src/node_modules/mdns"/>
-	<project name="webde/nodemodule/netlink" path="src/node_modules/netlink"/>
-	<project name="webde/nodemodule/nodegit" path="src/node_modules/nodegit"/>
-	<project name="webde/nodemodule/scan-fs" path="src/node_modules/scan-fs"/>
-	<project name="webde/nodemodule/socket.io" path="src/node_modules/socket.io"/>
-	<project name="webde/nodemodule/sqlite3" path="src/node_modules/sqlite3"/>
-	<project name="webde/nodemodule/chokidar" path="src/node_modules/chokidar"/>
-	<project name="webde/nodemodule/ws" path="src/node_modules/ws"/>
-	<project name="webde/nodemodule/node-dbus" path="src/node_modules/dbus"/>
+	<project name="ibp/webde_node" path="src/node"/>
+	<project name="ibp/webde_getip" path="src/node_modules/getip"/>
+	<project name="ibp/webde_getmac" path="src/node_modules/getmac"/>
+	<project name="ibp/webde_hashtable" path="src/node_modules/hashtable"/>
+	<project name="ibp/webde_mdns" path="src/node_modules/mdns"/>
+	<project name="ibp/webde_netlink" path="src/node_modules/netlink"/>
+	<project name="ibp/webde_nodegit" path="src/node_modules/nodegit"/>
+	<project name="ibp/webde_scan-fs" path="src/node_modules/scan-fs"/>
+	<project name="ibp/webde_socket.io" path="src/node_modules/socket.io"/>
+	<project name="ibp/webde_sqlite3" path="src/node_modules/sqlite3"/>
+	<project name="ibp/webde_chokidar" path="src/node_modules/chokidar"/>
+	<project name="ibp/webde_ws" path="src/node_modules/ws"/>
+	<project name="ibp/webde_node-dbus" path="src/node_modules/dbus"/>
 
-	<project name="webde/service/dbus_example" path="src/service/dbus_example"/>
+	<project name="ibp/webde_dbus_example" path="src/service/dbus_example"/>
 
-	<project name="IbpTeam/node-csvtojson" path="src/node_modules/csvtojson" remote="upstream"/>
-	<project name="IbpTeam/socket.io-client" path="src/node_modules/socket.io-client" remote="upstream"/>
-	<project name="IbpTeam/ursa" path="src/node_modules/ursa" remote="upstream"/>
-	<project name="IbpTeam/node-fs-extra" path="src/node_modules/fs-extra" remote="upstream"/>
-	<project name="IbpTeam/tape" path="src/node_modules/tape" remote="upstream"/>
-	<project name="IbpTeam/request" path="src/node_modules/request" remote="upstream"/>
-	<project name="IbpTeam/file-stream" path="src/node_modules/file-stream" remote="upstream"/>
-	<project name="IbpTeam/node-rsa" path="src/node_modules/node-rsa" remote="upstream"/>
-	<project name="IbpTeam/ID3v2-info-parser" path="src/node_modules/id3v2-parser" remote="upstream"/>
-	<project name="IbpTeam/node-ffprobe" path="src/node_modules/node-ffprobe" remote="upstream"/>
-	<project name="IbpTeam/node-video-thumb" path="src/node_modules/video-thumb" remote="upstream"/>
-	<project name="IbpTeam/node-notifier" path="src/node_modules/node-notifier" remote="upstream"/>
+	<project name="ibp/node-csvtojson" path="src/node_modules/csvtojson" />
+	<project name="ibp/socket.io-client" path="src/node_modules/socket.io-client" />
+	<project name="ibp/ursa" path="src/node_modules/ursa" />
+	<project name="ibp/node-fs-extra" path="src/node_modules/fs-extra" />
+	<project name="ibp/tape" path="src/node_modules/tape" />
+	<project name="ibp/request" path="src/node_modules/request" />
+	<project name="ibp/file-stream" path="src/node_modules/file-stream" />
+	<project name="ibp/node-rsa" path="src/node_modules/node-rsa" />
+	<project name="ibp/ID3v2-info-parser" path="src/node_modules/id3v2-parser" />
+	<project name="ibp/node-ffprobe" path="src/node_modules/node-ffprobe" />
+	<project name="ibp/node-video-thumb" path="src/node_modules/video-thumb" />
+	<project name="ibp/node-notifier" path="src/node_modules/node-notifier" />
 
-	<project name="IbpTeam/demo-webde" path="app/demo-webde" remote="upstream"/>
-	<project name="IbpTeam/demo-rio" path="app/demo-rio" remote="upstream"/>
-	<project name="IbpTeam/webde-android" path="app/webde-android" remote="upstream"/>
+	<project name="ibp/demo-webde" path="app/demo-webde" />
+	<project name="ibp/demo-rio" path="app/demo-rio" />
+	<project name="ibp/webde-android" path="app/webde-android" />
 </manifest>
