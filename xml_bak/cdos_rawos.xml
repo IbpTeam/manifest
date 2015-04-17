@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@192.168.162.142" review="" />
+    <default revision="rawos" remote="origin" />
+    <project name="documents" path="docs" revision="master"/>
+
+    <project name="build" path="build"/>
+
+    <project name="kernel" path="kernel"/>
+
+    <project name="cinnamon" path="desktop/cinnamon"/>
+    <project name="cinnamon-screensaver" path="desktop/cinnamon-screensaver"/>
+    <project name="nemo" path="desktop/nemo"/>
+    <project name="nemo-fileroller" path="desktop/nemo-fileroller"/>
+    <project name="nemo-share" path="desktop/nemo-share"/>
+    <project name="gnome-screenshot" path="desktop/gnome-screenshot"/>
+    <project name="gnome-system-monitor" path="desktop/gnome-system-monitor"/>
+    <project name="cinnamon-control-center" path="desktop/cinnamon-control-center"/>
+
+    <project name="cosupdate" path="mint/mintupdate"/>
+    <project name="cosdesktop" path="mint/mintdesktop"/>
+    <project name="coswelcome" path="mint/mintwelcome"/>
+    <project name="cosbackup" path="mint/mintbackup"/>
+    <project name="cossystem" path="mint/mintsystem"/>
+    <project name="cosdrivers" path="mint/mintdrivers"/>
+    <project name="cossources" path="mint/mintsources"/>
+    <project name="cosstick" path="mint/mintstick"/>
+    <project name="cosupload" path="mint/mintupload"/>
+    <project name="cosnanny" path="mint/mintnanny"/>
+    <project name="coswifi" path="mint/mintwifi"/>
+    <project name="cosinstall" path="mint/mintinstall"/>
+    <project name="cosinstall-icons" path="mint/mintinstall-icons"/>
+    <project name="cos-local-repository" path="mint/mint-local-repository"/>
+    <project name="cos-artwork-cinnamon" path="mint/mint-artwork-cinnamon"/>
+    <project name="cos-artwork-gnome" path="mint/mint-artwork-gnome"/>
+    <project name="cos-artwork-common" path="mint/mint-artwork-common"/>
+    <project name="cos-background-iceblue" path="mint/mint-backgrounds-olivia"/>
+    <project name="cos-mdm-themes" path="mint/mint-mdm-themes"/>
+    <project name="cos-themes" path="mint/mint-themes"/>
+    <project name="cos-flashplugin-11" path="mint/mint-flashplugin-11"/>
+    <project name="cos-meta" path="mint/mint-meta"/>
+    <project name="cos-info" path="mint/mint-info"/>
+    <project name="ubuntu-system-adjustments" path="mint/ubuntu-system-adjustments"/>
+    <project name="cos-x-icons" path="mint/mint-x-icons"/>
+    <project name="cos-mirrors" path="mint/mint-mirrors"/>
+    <project name="cos-common" path="mint/mint-common"/>
+    <project name="cos-translations" path="mint/mint-translations"/>
+    <project name="cos-flashplugin" path="mint/mint-flashplugin"/>
+    <project name="cos-stylish-addon" path="mint/mint-stylish-addon"/>
+
+</manifest>

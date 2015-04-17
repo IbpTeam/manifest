@@ -1,59 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="origin" fetch="ssh://git@192.168.162.142" review="" />
+    <remote name="origin" fetch="ssh://git@124.16.141.145" review="" />
     <default revision="master" remote="origin" />
-    <project name="documents" path="docs" />
 
-    <project name="build" path="build"/>
+	<project name="ibp/build" path="build" >
+	    <copyfile src="set_env" dest="set_env" />
+	</project>
 
-    <project name="kernel" path="kernel"/>
+    <project name="ibp/resources" path="resources" />
+	<project name="ibp/prebuilt" path="prebuilt" />
+	<project name="ibp/documents" path="documents" />
 
-    <project name="cinnamon" path="desktop/cinnamon"/>
-    <project name="cinnamon-screensaver" path="desktop/cinnamon-screensaver"/>
-    <project name="nemo" path="desktop/nemo"/>
-    <project name="nemo-fileroller" path="desktop/nemo-fileroller"/>
-    <project name="nemo-share" path="desktop/nemo-share"/>
-    <project name="gnome-screenshot" path="desktop/gnome-screenshot"/>
-    <project name="gnome-system-monitor" path="desktop/gnome-system-monitor"/>
-    <project name="cinnamon-control-center" path="desktop/cinnamon-control-center"/>
-    <project name="libtimezonemap" path="desktop/libtimezonemap"/>
-    <project name="gnome-icon-theme-symbolic" path="desktop/gnome-icon-theme-symbolic"/>
+	<project name="ibp/webde_node" path="src/node"/>
+	<project name="ibp/webde_getip" path="src/node_modules/getip"/>
+	<project name="ibp/webde_getmac" path="src/node_modules/getmac"/>
+	<project name="ibp/webde_hashtable" path="src/node_modules/hashtable"/>
+	<project name="ibp/webde_mdns" path="src/node_modules/mdns"/>
+	<project name="ibp/webde_netlink" path="src/node_modules/netlink"/>
+	<project name="ibp/webde_nodegit" path="src/node_modules/nodegit"/>
+	<project name="ibp/webde_scan-fs" path="src/node_modules/scan-fs"/>
+	<project name="ibp/webde_socket.io" path="src/node_modules/socket.io"/>
+	<project name="ibp/webde_sqlite3" path="src/node_modules/sqlite3"/>
+	<project name="ibp/webde_chokidar" path="src/node_modules/chokidar"/>
+	<project name="ibp/webde_ws" path="src/node_modules/ws"/>
+	<project name="ibp/webde_node-dbus" path="src/node_modules/dbus"/>
 
-    <project name="cosupdate" path="cos/cosupdate"/>
-    <project name="cosdesktop" path="cos/cosdesktop"/>
-    <project name="coswelcome" path="cos/coswelcome"/>
-    <project name="cosbackup" path="cos/cosbackup"/>
-    <project name="cossystem" path="cos/cossystem"/>
-    <project name="cosdrivers" path="cos/cosdrivers"/>
-    <project name="cossources" path="cos/cossources"/>
-    <project name="cosstick" path="cos/cosstick"/>
-    <project name="cosupload" path="cos/cosupload"/>
-    <project name="cosnanny" path="cos/cosnanny"/>
-    <project name="coswifi" path="cos/coswifi"/>
-    <project name="cosinstall" path="cos/cosinstall"/>
-    <project name="cosinstall-icons" path="cos/cosinstall-icons"/>
-    <project name="cos-upgrade" path="cos/cos-upgrade"/>
-    <project name="cos-local-repository" path="cos/cos-local-repository"/>
-    <project name="cos-artwork-cinnamon" path="cos/cos-artwork-cinnamon"/>
-    <project name="cos-artwork-gnome" path="cos/cos-artwork-gnome"/>
-    <project name="cos-artwork-common" path="cos/cos-artwork-common"/>
-    <project name="cos-background-iceblue" path="cos/cos-backgrounds-iceblue"/>
-    <project name="cos-mdm-themes" path="cos/cos-mdm-themes"/>
-    <project name="cos-themes" path="cos/cos-themes"/>
-    <project name="cos-flashplugin-11" path="cos/cos-flashplugin-11"/>
-    <project name="cos-meta" path="cos/cos-meta"/>
-    <project name="cos-info" path="cos/cos-info"/>
-    <project name="ubuntu-system-adjustments" path="cos/ubuntu-system-adjustments"/>
-    <project name="cos-x-icons" path="cos/cos-x-icons"/>
-    <project name="cos-mirrors" path="cos/cos-mirrors"/>
-    <project name="cos-common" path="cos/cos-common"/>
-    <project name="cos-translations" path="cos/cos-translations"/>
-    <project name="cos-flashplugin" path="cos/cos-flashplugin"/>
-    <project name="cos-stylish-addon" path="cos/cos-stylish-addon"/>
-    <project name="cospatchmgr" path="cos/cospatchmgr"/>
-    <project name="cosfeedback" path="cos/cosfeedback"/>
+	<project name="ibp/webde_dbus_example" path="src/service/dbus_example"/>
 
-   <project name="language-pack-gnome-zh-hans" path="language/language-pack-gnome-zh-hans"/>
-   <project name="language-pack-gnome-zh-hans-base" path="language/language-pack-gnome-zh-hans-base"/>
+	<project name="ibp/node-csvtojson" path="src/node_modules/csvtojson" />
+	<project name="ibp/socket.io-client" path="src/node_modules/socket.io-client" />
+	<project name="ibp/ursa" path="src/node_modules/ursa" />
+	<project name="ibp/node-fs-extra" path="src/node_modules/fs-extra" />
+	<project name="ibp/tape" path="src/node_modules/tape" />
+	<project name="ibp/request" path="src/node_modules/request" />
+	<project name="ibp/file-stream" path="src/node_modules/file-stream" />
+	<project name="ibp/node-rsa" path="src/node_modules/node-rsa" />
+	<project name="ibp/ID3v2-info-parser" path="src/node_modules/id3v2-parser" />
+	<project name="ibp/node-ffprobe" path="src/node_modules/node-ffprobe" />
+	<project name="ibp/node-video-thumb" path="src/node_modules/video-thumb" />
+	<project name="ibp/node-notifier" path="src/node_modules/node-notifier" />
 
+	<project name="ibp/demo-webde" path="app/demo-webde" />
+	<project name="ibp/demo-rio" path="app/demo-rio" />
+	<project name="ibp/webde-android" path="app/webde-android" />
 </manifest>

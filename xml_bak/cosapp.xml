@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@192.168.162.142" review="" />
+    <default revision="master" remote="origin" />
+
+    <project name="cosupdate" path="cos/cosupdate"/>
+    <project name="cosdesktop" path="cos/cosdesktop"/>
+    <project name="coswelcome" path="cos/coswelcome"/>
+    <project name="cosbackup" path="cos/cosbackup"/>
+    <project name="cossystem" path="cos/cossystem"/>
+    <project name="cosdrivers" path="cos/cosdrivers"/>
+    <project name="cossources" path="cos/cossources"/>
+    <project name="cosstick" path="cos/cosstick"/>
+    <project name="cosupload" path="cos/cosupload"/>
+    <project name="cosnanny" path="cos/cosnanny"/>
+    <project name="coswifi" path="cos/coswifi"/>
+    <project name="cosinstall" path="cos/cosinstall"/>
+    <project name="cosinstall-icons" path="cos/cosinstall-icons"/>
+    <project name="cos-upgrade" path="cos/cos-upgrade"/>
+    <project name="cos-local-repository" path="cos/cos-local-repository"/>
+    <project name="cos-artwork-cinnamon" path="cos/cos-artwork-cinnamon"/>
+    <project name="cos-artwork-gnome" path="cos/cos-artwork-gnome"/>
+    <project name="cos-artwork-common" path="cos/cos-artwork-common"/>
+    <project name="cos-background-iceblue" path="cos/cos-backgrounds-iceblue"/>
+    <project name="cos-mdm-themes" path="cos/cos-mdm-themes"/>
+    <project name="cos-themes" path="cos/cos-themes"/>
+    <project name="cos-flashplugin-11" path="cos/cos-flashplugin-11"/>
+    <project name="cos-meta" path="cos/cos-meta"/>
+    <project name="cos-info" path="cos/cos-info"/>
+    <project name="ubuntu-system-adjustments" path="cos/ubuntu-system-adjustments"/>
+    <project name="cos-x-icons" path="cos/cos-x-icons"/>
+    <project name="cos-mirrors" path="cos/cos-mirrors"/>
+    <project name="cos-common" path="cos/cos-common"/>
+    <project name="cos-translations" path="cos/cos-translations"/>
+    <project name="cos-flashplugin" path="cos/cos-flashplugin"/>
+    <project name="cos-stylish-addon" path="cos/cos-stylish-addon"/>
+    <project name="cospatchmgr" path="cos/cospatchmgr"/>
+    <project name="cosfeedback" path="cos/cosfeedback"/>
+
+</manifest>

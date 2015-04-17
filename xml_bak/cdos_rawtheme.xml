@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@192.168.162.142" review="" />
+    <default revision="rawtheme" remote="origin" />
+    <project name="documents" path="docs" revision="master"/>
+
+    <project name="build" path="build"/>
+
+    <project name="kernel" path="kernel"/>
+
+    <project name="cinnamon" path="desktop/cinnamon"/>
+    <project name="cinnamon-screensaver" path="desktop/cinnamon-screensaver"/>
+    <project name="nemo" path="desktop/nemo"/>
+    <project name="nemo-fileroller" path="desktop/nemo-fileroller"/>
+    <project name="nemo-share" path="desktop/nemo-share"/>
+    <project name="gnome-screenshot" path="desktop/gnome-screenshot"/>
+    <project name="gnome-system-monitor" path="desktop/gnome-system-monitor"/>
+    <project name="cinnamon-control-center" path="desktop/cinnamon-control-center"/>
+    <project name="libtimezonemap" path="desktop/libtimezonemap"/>
+    <project name="gnome-icon-theme-symbolic" path="desktop/gnome-icon-theme-symbolic"/>
+    <project name="gufw" path="desktop/gufw"/>
+    <project name="mdm" path="desktop/mdm"/>
+
+    <project name="mintupdate" path="mint/mintupdate"/>
+    <project name="mintdesktop" path="mint/mintdesktop"/>
+    <project name="mintwelcome" path="mint/mintwelcome"/>
+    <project name="mintbackup" path="mint/mintbackup"/>
+    <project name="mintsystem" path="mint/mintsystem"/>
+    <project name="mintdrivers" path="mint/mintdrivers"/>
+    <project name="mintsources" path="mint/mintsources"/>
+    <project name="mintstick" path="mint/mintstick"/>
+    <project name="mintupload" path="mint/mintupload"/>
+    <project name="mintnanny" path="mint/mintnanny"/>
+    <project name="mintwifi" path="mint/mintwifi"/>
+    <project name="mintinstall" path="mint/mintinstall"/>
+    <project name="mintinstall-icons" path="mint/mintinstall-icons"/>
+    <project name="mint-local-repository" path="mint/mint-local-repository"/>
+    <project name="mint-artwork-cinnamon" path="mint/mint-artwork-cinnamon"/>
+    <project name="mint-artwork-gnome" path="mint/mint-artwork-gnome"/>
+    <project name="mint-artwork-common" path="mint/mint-artwork-common"/>
+    <project name="mint-backgrounds-olivia" path="mint/mint-backgrounds-olivia"/>
+    <project name="mint-mdm-themes" path="mint/mint-mdm-themes"/>
+    <project name="mint-themes" path="mint/mint-themes"/>
+    <project name="mint-flashplugin-11" path="mint/mint-flashplugin-11"/>
+    <project name="mint-meta" path="mint/mint-meta"/>
+    <project name="mint-info" path="mint/mint-info"/>
+    <project name="ubuntu-system-adjustments" path="mint/ubuntu-system-adjustments"/>
+    <project name="mint-x-icons" path="mint/mint-x-icons"/>
+    <project name="mint-mirrors" path="mint/mint-mirrors"/>
+    <project name="mint-common" path="mint/mint-common"/>
+    <project name="mint-translations" path="mint/mint-translations"/>
+    <project name="mint-flashplugin" path="mint/mint-flashplugin"/>
+    <project name="mint-stylish-addon" path="mint/mint-stylish-addon"/>
+
+   <project name="language-pack-gnome-zh-hans" path="language/language-pack-gnome-zh-hans"/>
+   <project name="language-pack-gnome-zh-hans-base" path="language/language-pack-gnome-zh-hans-base"/>
+
+</manifest>

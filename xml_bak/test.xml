@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@192.168.162.142" review="" />
+    <default revision="master" remote="origin" />
+    <project name="documents" path="docs" />
+
+    <project name="build" path="build" revision="cdosbuild"/>
+</manifest>
