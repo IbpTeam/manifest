@@ -40,6 +40,7 @@
 	<project name="ibp/node-ffprobe" path="src/node_modules/node-ffprobe" />
 	<project name="ibp/node-video-thumb" path="src/node_modules/video-thumb" />
 	<project name="ibp/node-notifier" path="src/node_modules/node-notifier" />
+	<project name="ibp/protobufjs" path="src/node_modules/protobufjs" />
 
 	<project name="ibp/demo-webde" path="app/demo-webde" />
 	<project name="ibp/demo-rio" path="app/demo-rio" />
