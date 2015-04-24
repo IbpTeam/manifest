@@ -10,6 +10,7 @@
     <project name="ibp/resources" path="resources" />
 	<project name="ibp/prebuilt" path="prebuilt" />
 	<project name="ibp/documents" path="documents" />
+	<project name="ibp/rio-fs" path="rio-fs" />
 
 	<project name="ibp/webde_node" path="src/node"/>
 	<project name="ibp/webde_getip" path="src/node_modules/getip"/>
