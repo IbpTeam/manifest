@@ -18,7 +18,7 @@
 
 	<project name="ibp/webde_dbus_example" path="src/service/dbus_example"/>
 
-	<project name="ibp/webde_node" path="src/node"/>
+	<project name="ibp/node" path="src/node"/>
 
 	<project name="ibp/webde_socket.io" path="src/node_modules/socket.io"/>
 	<project name="ibp/socket.io-client" path="src/node_modules/socket.io-client" />
