@@ -44,6 +44,7 @@
 	<project name="ibp/node-fs-extra" path="src/node_modules/fs-extra" />
 	<project name="ibp/node-file-stream" path="src/node_modules/file-stream" />
 	<project name="ibp/node-chokidar" path="src/node_modules/chokidar"/>
+	<project name="ibp/node-levelgraph" path="src/node_modules/levelgraph"/>
 
 	<project name="ibp/node-csvtojson" path="src/node_modules/csvtojson" />
 	<project name="ibp/node-ID3v2-info-parser" path="src/node_modules/id3v2-parser" />
