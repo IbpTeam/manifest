@@ -50,5 +50,5 @@
 	<project name="ibp/node-video-thumb" path="src/node_modules/video-thumb" />
 	<project name="ibp/node-ffprobe" path="src/node_modules/node-ffprobe" />
 
-	<project name="ibp/tape" path="src/node_modules/tape" />
+	<project name="ibp/node-tape" path="src/node_modules/tape" />
 </manifest>
