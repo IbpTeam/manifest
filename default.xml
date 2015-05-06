@@ -38,7 +38,7 @@
 	<project name="ibp/node-ursa" path="src/node_modules/ursa" />
 	<project name="ibp/node-rsa" path="src/node_modules/node-rsa" />
 
-	<project name="ibp/webde_hashtable" path="src/node_modules/hashtable"/>
+	<project name="ibp/node-hashtable" path="src/node_modules/hashtable"/>
 	<project name="ibp/webde_nodegit" path="src/node_modules/nodegit"/>
 	<project name="ibp/webde_scan-fs" path="src/node_modules/scan-fs"/>
 	<project name="ibp/node-fs-extra" path="src/node_modules/fs-extra" />
