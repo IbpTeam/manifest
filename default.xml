@@ -40,7 +40,7 @@
 
 	<project name="ibp/node-hashtable" path="src/node_modules/hashtable"/>
 	<project name="ibp/node-nodegit" path="src/node_modules/nodegit"/>
-	<project name="ibp/webde_scan-fs" path="src/node_modules/scan-fs"/>
+	<project name="ibp/node-scan-fs" path="src/node_modules/scan-fs"/>
 	<project name="ibp/node-fs-extra" path="src/node_modules/fs-extra" />
 	<project name="ibp/file-stream" path="src/node_modules/file-stream" />
 	<project name="ibp/webde_chokidar" path="src/node_modules/chokidar"/>
