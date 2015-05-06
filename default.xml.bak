@@ -18,9 +18,9 @@
 
 	<project name="ibp/webde_dbus_example" path="src/service/dbus_example"/>
 
-	<project name="ibp/node" path="src/node"/>
+	<project name="ibp/webde_node" path="src/node"/>
 
-	<project name="ibp/node-socket.io" path="src/node_modules/socket.io"/>
+	<project name="ibp/socket.io" path="src/node_modules/socket.io"/>
 	<project name="ibp/socket.io-client" path="src/node_modules/socket.io-client" />
 	<project name="ibp/webde_sqlite3" path="src/node_modules/sqlite3"/>
 	<project name="ibp/webde_ws" path="src/node_modules/ws"/>
@@ -41,7 +41,7 @@
 	<project name="ibp/webde_hashtable" path="src/node_modules/hashtable"/>
 	<project name="ibp/webde_nodegit" path="src/node_modules/nodegit"/>
 	<project name="ibp/webde_scan-fs" path="src/node_modules/scan-fs"/>
-	<project name="ibp/node-fs-extra" path="src/node_modules/fs-extra" />
+	<project name="ibp/webde-fs-extra" path="src/node_modules/fs-extra" />
 	<project name="ibp/file-stream" path="src/node_modules/file-stream" />
 	<project name="ibp/webde_chokidar" path="src/node_modules/chokidar"/>
 
