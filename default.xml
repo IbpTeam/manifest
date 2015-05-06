@@ -30,8 +30,8 @@
 	<project name="ibp/node-protobufjs" path="src/node_modules/protobufjs" />
 	<project name="ibp/node-notifier" path="src/node_modules/node-notifier" />
 
-	<project name="ibp/webde_getip" path="src/node_modules/getip"/>
-	<project name="ibp/webde_getmac" path="src/node_modules/getmac"/>
+	<project name="ibp/node-getip" path="src/node_modules/getip"/>
+	<project name="ibp/node-getmac" path="src/node_modules/getmac"/>
 	<project name="ibp/webde_mdns" path="src/node_modules/mdns"/>
 	<project name="ibp/webde_netlink" path="src/node_modules/netlink"/>
 
