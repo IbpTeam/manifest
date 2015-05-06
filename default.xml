@@ -32,7 +32,7 @@
 
 	<project name="ibp/node-getip" path="src/node_modules/getip"/>
 	<project name="ibp/node-getmac" path="src/node_modules/getmac"/>
-	<project name="ibp/webde_mdns" path="src/node_modules/mdns"/>
+	<project name="ibp/node-mdns" path="src/node_modules/mdns"/>
 	<project name="ibp/webde_netlink" path="src/node_modules/netlink"/>
 
 	<project name="ibp/ursa" path="src/node_modules/ursa" />
