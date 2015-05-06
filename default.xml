@@ -21,7 +21,7 @@
 	<project name="ibp/node" path="src/node"/>
 
 	<project name="ibp/node-socket.io" path="src/node_modules/socket.io"/>
-	<project name="ibp/socket.io-client" path="src/node_modules/socket.io-client" />
+	<project name="ibp/node-socket.io-client" path="src/node_modules/socket.io-client" />
 	<project name="ibp/webde_sqlite3" path="src/node_modules/sqlite3"/>
 	<project name="ibp/webde_ws" path="src/node_modules/ws"/>
 	<project name="ibp/request" path="src/node_modules/request" />
