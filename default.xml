@@ -27,7 +27,7 @@
 	<project name="ibp/node-request" path="src/node_modules/request" />
 
 	<project name="ibp/node-dbus" path="src/node_modules/dbus"/>
-	<project name="ibp/protobufjs" path="src/node_modules/protobufjs" />
+	<project name="ibp/node-protobufjs" path="src/node_modules/protobufjs" />
 	<project name="ibp/node-notifier" path="src/node_modules/node-notifier" />
 
 	<project name="ibp/webde_getip" path="src/node_modules/getip"/>
