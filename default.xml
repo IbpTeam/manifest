@@ -35,7 +35,7 @@
 	<project name="ibp/node-mdns" path="src/node_modules/mdns"/>
 	<project name="ibp/node-netlink" path="src/node_modules/netlink"/>
 
-	<project name="ibp/ursa" path="src/node_modules/ursa" />
+	<project name="ibp/node-ursa" path="src/node_modules/ursa" />
 	<project name="ibp/node-rsa" path="src/node_modules/node-rsa" />
 
 	<project name="ibp/webde_hashtable" path="src/node_modules/hashtable"/>
