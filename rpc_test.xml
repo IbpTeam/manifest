@@ -16,7 +16,7 @@
 	<project name="ibp/demo-rio" path="app/demo-rio"  revision="RPCApi"/>
 	<project name="ibp/webde-android" path="app/webde-android"  revision="dev"/>
 
-	<project name="ibp/commdaemon" path="src/service/commdaemon"/>
+	<project name="ibp/service-commdaemon" path="src/service/commdaemon"/>
 	<project name="ibp/webde_dbus_example" path="src/service/dbus_example"/>
 
 	<project name="ibp/node" path="src/node"/>
