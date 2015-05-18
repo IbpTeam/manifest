@@ -3,7 +3,7 @@
     <remote name="origin" fetch="ssh://git@124.16.141.145" review="" />
     <default revision="master" remote="origin" />
 
-	<project name="ibp/build" path="build" >
+	<project name="ibp/build" path="build" revision="dev-rpc">
 	    <copyfile src="set_env" dest="set_env" />
 	</project>
 
