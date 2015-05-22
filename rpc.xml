@@ -25,7 +25,8 @@
 	<project name="ibp/service-mix" path="service/mix" revision="dev"/>
 	<project name="ibp/framework-webde-rpc" path="framework/webde-rpc" revision="dev"/>
 	<project name="ibp/framework-utils" path="framework/utils" revision="dev"/>
-	<project name="ibp/framework-systemconfig" path="framework/systemconfig" revision="dev"/>
+  <project name="ibp/framework-systemconfig" path="framework/systemconfig" revision="dev"/>
+  <project name="ibp/framework-api" path="framework/api" revision="dev"/>
 
 	<project name="ibp/webde_dbus_example" path="service/dbus_example"/>
 
