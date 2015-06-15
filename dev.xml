@@ -16,11 +16,11 @@
 	<project name="ibp/demo-rio" path="app/demo-rio"  revision="dev"/>
 	<project name="ibp/webde-android" path="app/webde-android"  revision="dev"/>
 
+	<project name="ibp/service-svcmgr" path="service/svcmgr" revision="dev"/>
 	<project name="ibp/service-commdaemon" path="service/commdaemon" revision="dev"/>
 	<project name="ibp/service-appmgr" path="service/appmgr" revision="dev"/>
 	<project name="ibp/service-datamgr" path="service/datamgr" revision="dev"/>
 	<project name="ibp/service-httpserver" path="service/httpserver" revision="dev"/>
-	<project name="ibp/service-im" path="service/im" revision="dev"/>
 	<project name="ibp/service-lang" path="service/lang" revision="dev"/>
 	<project name="ibp/service-mix" path="service/mix" revision="dev"/>
 	<project name="ibp/service-clipboard" path="service/clipboard" revision="dev"/>
