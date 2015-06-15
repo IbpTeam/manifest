@@ -18,6 +18,7 @@
 
 	<project name="ibp/service-svcmgr" path="service/svcmgr" revision="dev"/>
 	<project name="ibp/service-commdaemon" path="service/commdaemon" revision="dev"/>
+	<project name="ibp/service-datatransfer" path="service/datatransfer" revision="dev"/>
 	<project name="ibp/service-appmgr" path="service/appmgr" revision="dev"/>
 	<project name="ibp/service-datamgr" path="service/datamgr" revision="dev"/>
 	<project name="ibp/service-httpserver" path="service/httpserver" revision="dev"/>
