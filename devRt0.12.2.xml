@@ -34,6 +34,7 @@
 	<project name="ibp/webde_dbus_example" path="service/dbus_example"/>
 
 	<project name="ibp/node" path="src/node"/>
+	<project name="ibp/io.js" path="src/io.js" revision="v1.2.0"/>
 
 	<project name="ibp/node-socket.io" path="src/node_modules/socket.io"/>
 	<project name="ibp/node-socket.io-client" path="src/node_modules/socket.io-client" />
@@ -41,13 +42,12 @@
 	<project name="ibp/node-ws" path="src/node_modules/ws"/>
 	<project name="ibp/node-request" path="src/node_modules/request" />
 
-	<project name="ibp/node-dbus" path="src/node_modules/dbus"/>
+	<project name="ibp/node-dbus" path="src/node_modules/dbus" revision="dev-rt"/>
 	<project name="ibp/node-protobufjs" path="src/node_modules/protobufjs" />
 	<project name="ibp/node-notifier" path="src/node_modules/node-notifier" />
 
 	<project name="ibp/node-getip" path="src/node_modules/getip"/>
 	<project name="ibp/node-getmac" path="src/node_modules/getmac"/>
-	<project name="ibp/node-mdns" path="src/node_modules/mdns"/>
 	<project name="ibp/node-netlink" path="src/node_modules/netlink"/>
 
 	<project name="ibp/node-ursa" path="src/node_modules/ursa" />
