@@ -45,6 +45,7 @@
 	<project name="ibp/node-protobufjs" path="src/node_modules/protobufjs" />
 	<project name="ibp/node-notifier" path="src/node_modules/node-notifier" />
 	<project name="ibp/node-copy-paste" path="src/node_modules/copy-paste" />
+	<project name="ibp/node-uuid" path="src/node_modules/node-uuid" />
 
 	<project name="ibp/node-getip" path="src/node_modules/getip"/>
 	<project name="ibp/node-getmac" path="src/node_modules/getmac"/>
