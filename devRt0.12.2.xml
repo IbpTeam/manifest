@@ -34,7 +34,7 @@
   
 	<project name="ibp/webde_dbus_example" path="service/dbus_example"/>
 
-	<project name="ibp/io.js" path="src/io.js" revision="v1.2.0"/>
+	<project name="ibp/io.js" path="src/io.js" revision="dev-rt-v1.2.0"/>
 
 	<project name="ibp/node-socket.io" path="src/node_modules/socket.io"/>
 	<project name="ibp/node-socket.io-client" path="src/node_modules/socket.io-client" />
