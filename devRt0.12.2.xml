@@ -26,14 +26,15 @@
 	<project name="ibp/service-mix" path="service/mix" revision="dev"/>
 	<project name="ibp/service-clipboard" path="service/clipboard" revision="dev"/>
 	<project name="ibp/service-hardresmgr" path="service/hardresmgr" revision="dev"/>
+    <project name="ibp/service-sysproperty" path="service/sysproperty" revision="dev"/>
 	<project name="ibp/framework-webde-rpc" path="framework/webde-rpc" revision="dev"/>
 	<project name="ibp/framework-utils" path="framework/utils" revision="dev"/>
-  <project name="ibp/framework-systemconfig" path="framework/systemconfig" revision="dev"/>
-  <project name="ibp/framework-api" path="framework/api" revision="dev"/>
+    <project name="ibp/framework-systemconfig" path="framework/systemconfig" revision="dev"/>
+    <project name="ibp/framework-api" path="framework/api" revision="dev"/>
   
 	<project name="ibp/webde_dbus_example" path="service/dbus_example"/>
 
-	<project name="ibp/node" path="src/node"/>
+	<project name="ibp/io.js" path="src/io.js" revision="v1.2.0"/>
 
 	<project name="ibp/node-socket.io" path="src/node_modules/socket.io"/>
 	<project name="ibp/node-socket.io-client" path="src/node_modules/socket.io-client" />
@@ -44,7 +45,8 @@
 	<project name="ibp/node-dbus" path="src/node_modules/dbus"/>
 	<project name="ibp/node-protobufjs" path="src/node_modules/protobufjs" />
 	<project name="ibp/node-notifier" path="src/node_modules/node-notifier" />
-
+    <project name="ibp/node-copy-paste" path="src/node_modules/copy-paste" />
+    <project name="ibp/node-uuid" path="src/node_modules/node-uuid" />
 	<project name="ibp/node-getip" path="src/node_modules/getip"/>
 	<project name="ibp/node-getmac" path="src/node_modules/getmac"/>
 	<project name="ibp/node-mdns" path="src/node_modules/mdns"/>
