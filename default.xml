@@ -14,6 +14,7 @@
 	<project name="ibp/demo-webde" path="app/demo-webde"  />
 	<project name="ibp/demo-rio" path="app/demo-rio"  />
 	<project name="ibp/webde-android" path="app/webde-android"  />
+	<project name="ibp/rio-libgit2" path="src/libgit2" />
 
 	<project name="ibp/service-svcmgr" path="service/svcmgr" />
 	<project name="ibp/service-commdaemon" path="service/commdaemon" />
