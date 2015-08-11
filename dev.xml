@@ -33,6 +33,7 @@
 	<project name="ibp/framework-utils" path="framework/utils" revision="dev"/>
   <project name="ibp/framework-systemconfig" path="framework/systemconfig" revision="dev"/>
   <project name="ibp/framework-api" path="framework/api" revision="dev"/>
+  <project name="ibp/framework-mulscr-sdk" path="framework/mulscr-sdk" revision="dev"/>
   
 	<project name="ibp/webde_dbus_example" path="service/dbus_example"/>
 
