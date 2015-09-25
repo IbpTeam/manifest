@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="origin" fetch="ssh://git@124.16.141.145" review="" />
+    <remote name="origin" fetch="ssh://git@github.com" review="" />
     <default revision="master" remote="origin" />
 
 	<project name="ibp/build" path="build" revision="dev-rt">
