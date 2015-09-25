@@ -3,76 +3,76 @@
     <remote name="origin" fetch="ssh://git@github.com" review="" />
     <default revision="master" remote="origin" />
 
-	<project name="ibp/build" path="build" >
+	<project name="IbpTeam/build" path="build" >
 	    <copyfile src="set_env" dest="set_env" />
 	</project>
 
-	<project name="ibp/prebuilt" path="prebuilt" />
-	<project name="ibp/documents" path="documents" />
-	<project name="ibp/resources" path="resources" />
+	<project name="IbpTeam/prebuilt" path="prebuilt" />
+	<project name="IbpTeam/documents" path="documents" />
+	<project name="IbpTeam/resources" path="resources" />
 
-	<project name="ibp/rio-fs" path="rio-fs" revision="dev"/>
-	<project name="ibp/demo-webde" path="app/demo-webde" revision="dev" />
-	<project name="ibp/demo-rio" path="app/demo-rio"  revision="dev"/>
-	<project name="ibp/webde-android" path="app/webde-android"  revision="dev"/>
- <project name="ibp/rio-libgit2" path="src/libgit2"  revision="dev"/>
- <project name="ibp/data-analysis" path="src/data-analysis"  revision="dev"/>
+	<project name="IbpTeam/rio-fs" path="rio-fs" revision="dev"/>
+	<project name="IbpTeam/demo-webde" path="app/demo-webde" revision="dev" />
+	<project name="IbpTeam/demo-rio" path="app/demo-rio"  revision="dev"/>
+	<project name="IbpTeam/webde-android" path="app/webde-android"  revision="dev"/>
+ <project name="IbpTeam/rio-libgit2" path="src/libgit2"  revision="dev"/>
+ <project name="IbpTeam/data-analysis" path="src/data-analysis"  revision="dev"/>
 
-	<project name="ibp/service-svcmgr" path="service/svcmgr" revision="dev"/>
-	<project name="ibp/service-commdaemon" path="service/commdaemon" revision="dev"/>
-	<project name="ibp/service-datatransfer" path="service/datatransfer" revision="dev"/>
-	<project name="ibp/service-appmgr" path="service/appmgr" revision="dev"/>
-	<project name="ibp/service-datamgr" path="service/datamgr" revision="dev"/>
-	<project name="ibp/service-httpserver" path="service/httpserver" revision="dev"/>
-	<project name="ibp/service-lang" path="service/lang" revision="dev"/>
-	<project name="ibp/service-mix" path="service/mix" revision="dev"/>
-	<project name="ibp/service-clipboard" path="service/clipboard" revision="dev"/>
-	<project name="ibp/service-hardresmgr" path="service/hardresmgr" revision="dev"/>
-	<project name="ibp/service-sysproperty" path="service/sysproperty" revision="dev"/>
-	<project name="ibp/service-cryptdaemon" path="service/cryptdaemon" revision="dev"/>
-	<project name="ibp/framework-webde-rpc" path="framework/webde-rpc" revision="dev"/>
-	<project name="ibp/framework-utils" path="framework/utils" revision="dev"/>
-  <project name="ibp/framework-systemconfig" path="framework/systemconfig" revision="dev"/>
-  <project name="ibp/framework-api" path="framework/api" revision="dev"/>
-  <project name="ibp/framework-mulscr-sdk" path="framework/mulscr-sdk" revision="dev"/>
+	<project name="IbpTeam/service-svcmgr" path="service/svcmgr" revision="dev"/>
+	<project name="IbpTeam/service-commdaemon" path="service/commdaemon" revision="dev"/>
+	<project name="IbpTeam/service-datatransfer" path="service/datatransfer" revision="dev"/>
+	<project name="IbpTeam/service-appmgr" path="service/appmgr" revision="dev"/>
+	<project name="IbpTeam/service-datamgr" path="service/datamgr" revision="dev"/>
+	<project name="IbpTeam/service-httpserver" path="service/httpserver" revision="dev"/>
+	<project name="IbpTeam/service-lang" path="service/lang" revision="dev"/>
+	<project name="IbpTeam/service-mix" path="service/mix" revision="dev"/>
+	<project name="IbpTeam/service-clipboard" path="service/clipboard" revision="dev"/>
+	<project name="IbpTeam/service-hardresmgr" path="service/hardresmgr" revision="dev"/>
+	<project name="IbpTeam/service-sysproperty" path="service/sysproperty" revision="dev"/>
+	<project name="IbpTeam/service-cryptdaemon" path="service/cryptdaemon" revision="dev"/>
+	<project name="IbpTeam/framework-webde-rpc" path="framework/webde-rpc" revision="dev"/>
+	<project name="IbpTeam/framework-utils" path="framework/utils" revision="dev"/>
+  <project name="IbpTeam/framework-systemconfig" path="framework/systemconfig" revision="dev"/>
+  <project name="IbpTeam/framework-api" path="framework/api" revision="dev"/>
+  <project name="IbpTeam/framework-mulscr-sdk" path="framework/mulscr-sdk" revision="dev"/>
   
-	<project name="ibp/webde_dbus_example" path="service/dbus_example"/>
+	<project name="IbpTeam/webde_dbus_example" path="service/dbus_example"/>
 
-	<project name="ibp/node" path="src/node"/>
+	<project name="IbpTeam/node" path="src/node"/>
 
-	<project name="ibp/node-socket.io" path="src/node_modules/socket.io"/>
-	<project name="ibp/node-socket.io-client" path="src/node_modules/socket.io-client" />
-	<project name="ibp/webde_sqlite3" path="src/node_modules/sqlite3"/>
-	<project name="ibp/node-ws" path="src/node_modules/ws"/>
-	<project name="ibp/node-request" path="src/node_modules/request" />
+	<project name="IbpTeam/node-socket.io" path="src/node_modules/socket.io"/>
+	<project name="IbpTeam/node-socket.io-client" path="src/node_modules/socket.io-client" />
+	<project name="IbpTeam/webde_sqlite3" path="src/node_modules/sqlite3"/>
+	<project name="IbpTeam/node-ws" path="src/node_modules/ws"/>
+	<project name="IbpTeam/node-request" path="src/node_modules/request" />
 
-	<project name="ibp/node-dbus" path="src/node_modules/dbus"/>
-	<project name="ibp/node-protobufjs" path="src/node_modules/protobufjs" />
-	<project name="ibp/node-notifier" path="src/node_modules/node-notifier" />
-	<project name="ibp/node-copy-paste" path="src/node_modules/copy-paste" />
-	<project name="ibp/node-uuid" path="src/node_modules/node-uuid" />
+	<project name="IbpTeam/node-dbus" path="src/node_modules/dbus"/>
+	<project name="IbpTeam/node-protobufjs" path="src/node_modules/protobufjs" />
+	<project name="IbpTeam/node-notifier" path="src/node_modules/node-notifier" />
+	<project name="IbpTeam/node-copy-paste" path="src/node_modules/copy-paste" />
+	<project name="IbpTeam/node-uuid" path="src/node_modules/node-uuid" />
 
-	<project name="ibp/node-getip" path="src/node_modules/getip"/>
-	<project name="ibp/node-getmac" path="src/node_modules/getmac"/>
-	<project name="ibp/node-mdns" path="src/node_modules/mdns"/>
-	<project name="ibp/node-netlink" path="src/node_modules/netlink"/>
+	<project name="IbpTeam/node-getip" path="src/node_modules/getip"/>
+	<project name="IbpTeam/node-getmac" path="src/node_modules/getmac"/>
+	<project name="IbpTeam/node-mdns" path="src/node_modules/mdns"/>
+	<project name="IbpTeam/node-netlink" path="src/node_modules/netlink"/>
 
-	<project name="ibp/node-ursa" path="src/node_modules/ursa" />
-	<project name="ibp/node-rsa" path="src/node_modules/node-rsa" />
+	<project name="IbpTeam/node-ursa" path="src/node_modules/ursa" />
+	<project name="IbpTeam/node-rsa" path="src/node_modules/node-rsa" />
 
-	<project name="ibp/node-hashtable" path="src/node_modules/hashtable"/>
-	<project name="ibp/node-nodegit" path="src/node_modules/nodegit"/>
-	<project name="ibp/node-scan-fs" path="src/node_modules/scan-fs"/>
-	<project name="ibp/node-fs-extra" path="src/node_modules/fs-extra" />
-	<project name="ibp/node-file-stream" path="src/node_modules/file-stream" />
-	<project name="ibp/node-chokidar" path="src/node_modules/chokidar"/>
-	<project name="ibp/node-levelgraph" path="src/node_modules/levelgraph"/>
-	<project name="ibp/node-q" path="src/node_modules/q"/>
-	<project name="ibp/node-tar" path="src/node_modules/tar"/>
-	<project name="ibp/node-fstream" path="src/node_modules/fstream"/>
+	<project name="IbpTeam/node-hashtable" path="src/node_modules/hashtable"/>
+	<project name="IbpTeam/node-nodegit" path="src/node_modules/nodegit"/>
+	<project name="IbpTeam/node-scan-fs" path="src/node_modules/scan-fs"/>
+	<project name="IbpTeam/node-fs-extra" path="src/node_modules/fs-extra" />
+	<project name="IbpTeam/node-file-stream" path="src/node_modules/file-stream" />
+	<project name="IbpTeam/node-chokidar" path="src/node_modules/chokidar"/>
+	<project name="IbpTeam/node-levelgraph" path="src/node_modules/levelgraph"/>
+	<project name="IbpTeam/node-q" path="src/node_modules/q"/>
+	<project name="IbpTeam/node-tar" path="src/node_modules/tar"/>
+	<project name="IbpTeam/node-fstream" path="src/node_modules/fstream"/>
 
-	<project name="ibp/node-csvtojson" path="src/node_modules/csvtojson" />
-	<project name="ibp/node-ID3v2-info-parser" path="src/node_modules/id3v2-parser" />
+	<project name="IbpTeam/node-csvtojson" path="src/node_modules/csvtojson" />
+	<project name="IbpTeam/node-ID3v2-info-parser" path="src/node_modules/id3v2-parser" />
 
-	<project name="ibp/node-tape" path="src/node_modules/tape" />
+	<project name="IbpTeam/node-tape" path="src/node_modules/tape" />
 </manifest>
